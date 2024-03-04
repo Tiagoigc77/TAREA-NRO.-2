@@ -3,10 +3,10 @@
     {
       "titulo": "Título del post 1",
       "descripcion": "Descripción del post 1",
-      "url": "URL_del_post_1",
+      "url": "URL_Post_1",
       "etiquetas": ["etiqueta1", "etiqueta2"],
       "usuario": "NombreUsuario1",
-      "likes": 10,
+      "total_likes": 10,
       "comentarios": [
         {
           "usuario": "UsuarioComentario1",
